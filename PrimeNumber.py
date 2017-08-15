@@ -34,6 +34,6 @@ if __name__ == "__main__":
     print(time.time() - eski)
     print(sonuclar)
     alt_toplamlar = map(sum, sonuclar)
-    print("Sayilarin Toplami:", sum(alt_toplamlar))
+    print("Sayilarin Toplami:", sum(alt_toplamlar)) 
 
 
