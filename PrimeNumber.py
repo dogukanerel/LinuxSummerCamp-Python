@@ -5,7 +5,7 @@ from math import sqrt
 def asal_mi(sayi):
     if sayi < 2:
         return False
-
+    ""
     if sayi % 2 == 0:
         return False
 
